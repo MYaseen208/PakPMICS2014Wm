@@ -1,4 +1,4 @@
-# Changes in PakPMICS2014Ch Version 0.1.0
+# Changes in PakPMICS2014HH Version 0.1.0
 ## New Features 
 
-* First version of PakPMICS2014Ch 
+* First version of PakPMICS2014HH 
