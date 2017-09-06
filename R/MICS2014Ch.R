@@ -1,5 +1,5 @@
-#' @title Data of Child questionnaire, MICS Punjab, 2014 
-#' @name   MICS2014Ch
+#' @title Multiple Indicator Cluster Survey (MICS) 2014 Child questionnaire data for Punjab, Pakistan
+#' @name  MICS2014Ch
 #' @docType data
 #' @keywords datasets
 #' @usage data(MICS2014Ch)
@@ -284,11 +284,6 @@
 #'   \item{Muhammad Usman } {(\email{usmann75@hotmail.com})}
 #'   }
 #'   
-#' @seealso 
-#'    \code{\link{MICS2014HH}}
-#'  , \code{\link{MICS2014HL}}
-#'  , \code{\link{MICS2014Wm}}
-#'  
 #' @importFrom data.table data.table
 #' 
 #' @examples

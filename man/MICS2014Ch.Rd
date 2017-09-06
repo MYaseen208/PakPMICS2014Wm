@@ -3,7 +3,7 @@
 \docType{data}
 \name{MICS2014Ch}
 \alias{MICS2014Ch}
-\title{Data of Child questionnaire, MICS Punjab, 2014}
+\title{Multiple Indicator Cluster Survey (MICS) 2014 Child questionnaire data for Punjab, Pakistan}
 \format{A data frame with 31083 rows and 270 variables:
 \describe{
   \item{\code{HH1}}{Cluster number}
@@ -285,11 +285,6 @@ data(MICS2014Ch)
 }
 \examples{
 data(MICS2014Ch)
-}
-\seealso{
-\code{\link{MICS2014HH}}
- , \code{\link{MICS2014HL}}
- , \code{\link{MICS2014Wm}}
 }
 \author{
 \enumerate{
