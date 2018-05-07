@@ -3,7 +3,7 @@
 \docType{data}
 \name{MICS2014Wm}
 \alias{MICS2014Wm}
-\title{Multiple Indicator Cluster Survey (MICS) 2014 Women (age 15-49 years) questionnaire data for Punjab, Pakistan}
+\title{Multiple Indicator Cluster Survey (MICS) 2014 Women Questionnaire Data for Punjab, Pakistan}
 \format{A data frame with 61286 rows and 308 variables:
 \describe{
   \item{\code{HH1}}{Cluster number}
@@ -323,6 +323,11 @@ data(MICS2014Wm)
 }
 \examples{
 data(MICS2014Wm)
+}
+\references{
+\enumerate{
+\item UNICEF MICS (\url{http://www.mics.unicef.org/surveys}).
+ }
 }
 \author{
 \enumerate{

@@ -1,4 +1,4 @@
-# PakPMICS2014Wm
+# PakPMICS2014Wm: Multiple Indicator Cluster Survey (MICS) 2014 Women Questionnaire Data for Punjab, Pakistan
 ## Introduction
 
 **PakPMICS2014Wm** Provides data set and function for exploration of Multiple Indicator Cluster Survey 2014 Women (age 15-49 years) questionnaire data for Punjab, Pakistan.
